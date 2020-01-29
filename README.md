@@ -11,7 +11,7 @@ Test order check project
 Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
+* Roman Beskrovnyi - [bestworkerr](https://github.com/bestworkerr)
 
 ## Acknowledgments
 ...
